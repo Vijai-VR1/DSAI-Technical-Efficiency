@@ -6,8 +6,7 @@ DSAI - Technical Efficiency
 ![Logo](https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Janssen_Pharmaceuticals_logo.svg/220px-Janssen_Pharmaceuticals_logo.svg.png)
 ## Project Description
 
-DSAI Incubator is a central location for all project-related documents/links/information. ​
-It can be linked to Teams and other technologies like Bit Bucket​.
+Script for adding projects in DSAI Incubator. This script creates a document library and scrapes the project list from Asana's portfolio, and its hosted in DSAI Incubator.
 
 ## Installation
 
