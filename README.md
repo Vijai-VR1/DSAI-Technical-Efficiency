@@ -53,16 +53,32 @@ This module requires the following packages
 - Create a folder named as 'Ultimate Automation' in Downloads 
    #### Navigation :File Explorer > User Profile D > Users > XXX > Downloads > Ultimate Automation
 
-    1. ![SS1](https://user-images.githubusercontent.com/115223223/194540053-94316352-9cf6-4555-aa46-5f282f810e18.png)
-    2. 
+    1. 
+    ![SS1](https://user-images.githubusercontent.com/115223223/194540053-94316352-9cf6-4555-aa46-5f282f810e18.png)
+    
+    2.
+    ![SS2](https://user-images.githubusercontent.com/115223223/194541012-e74c269e-f374-470d-a6f0-fd9580ac8da8.png)
+
     3.
+    ![SS3](https://user-images.githubusercontent.com/115223223/194541139-3ad086c1-9dd0-4d25-9342-5d4b1c6f3a67.png)
+
     4.
+    ![SS4](https://user-images.githubusercontent.com/115223223/194541182-8365f682-ed37-47ea-9113-d9df5b6a68c2.png)
+
     5.
+    ![SS5](https://user-images.githubusercontent.com/115223223/194541338-6d0830b5-32dd-47c5-90e0-c37e1bd7579a.png)
+
 - Switch the location of the downloads file to the Ultimate automation folder in Chrome / search engine settings
    #### Navigation : Chrome >  Settings > Downloads > Change the location
     1.
+    ![SS6](https://user-images.githubusercontent.com/115223223/194541388-dc3d893a-7817-4eea-a2c7-a90180e3df2e.png)
+
     2.
+    ![SS8](https://user-images.githubusercontent.com/115223223/194541442-cf1228e4-69e2-4610-9bc3-1d04cc8279c3.png)
+
     3.
+    ![SS9](https://user-images.githubusercontent.com/115223223/194541495-ce3c187b-63b0-4fe6-9fb6-008f3554c0c2.png)
+
 ## Configuration
 
 * Configure the user permissions in Settings » Site Access » Permissions:
